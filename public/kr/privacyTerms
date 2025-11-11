@@ -4,6 +4,13 @@
   <meta charset="stf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>개인정보 수집 및 이용 동의</title>
+  <style>
+    ol {
+      padding-left: 0;
+      margin-left: 0;
+      list-style-position: inside;
+    }
+  </style>
 </head>
 <body>
   <h3>[개인정보 수집 및 이용 동의]</h3>
