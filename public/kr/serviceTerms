@@ -4,6 +4,13 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>서비스 이용약관</title>
+  <style>
+    ol {
+      padding-left: 0;
+      margin-left: 0;
+      list-style-position: inside;
+    }
+  </style>
 </head>
 <body>
   <h3>[서비스 이용약관]</h3>
