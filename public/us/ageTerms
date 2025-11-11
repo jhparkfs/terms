@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Age Confirmation (14+)</title>
+  <style>
+    ol {
+      padding-left: 0;
+      margin-left: 0;
+      list-style-position: inside;
+    }
+  </style>
+</head>
+<body>
+  <h3>[Age Confirmation (14+)]</h3>
+  <ol>
+    <li>I confirm that I am at least 14 years old.</li>
+    <li>Under applicable laws, users below the minimum age may require the consent of a legal guardian or have access to the service restricted.</li>
+    <li>The company may request age verification when necessary.</li>
+    <li>Additional matters are governed by notices within the service or separate policies.</li>
+  </ol>
+</body>
+</html>
