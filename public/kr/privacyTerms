@@ -1,10 +1,15 @@
 <!doctype html>
 <html lang="ko">
 <head>
-  <meta charset="stf-8" />
+  <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="version" content="1" />
+
   <title>개인정보 수집 및 이용 동의</title>
   <style>
+    html, body {
+      background-color: transparent;
+    }
     ol {
       padding-left: 0;
       margin-left: 0;
