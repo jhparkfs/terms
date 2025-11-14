@@ -3,8 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="version" content="1" />
+
   <title>Personalization Consent</title>
   <style>
+    html, body {
+      background-color: transparent;
+    }
     ol {
       padding-left: 0;
       margin-left: 0;
