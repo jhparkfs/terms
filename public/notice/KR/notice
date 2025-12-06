@@ -1,0 +1,26 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="version" content="1" />
+
+  <title>첫번째 공지</title>
+  <style>
+    html, body {
+      background-color: transparent;
+    }
+    ol {
+      padding-left: 0;
+      margin-left: 0;
+      list-style-position: inside;
+    }
+  </style>
+</head>
+<body>
+  <h3>첫번째 공지</h3>
+  <ol>
+    <li>환영합니다.</li>
+  </ol>
+</body>
+</html>
